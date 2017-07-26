@@ -2,9 +2,18 @@
   font-family: 'Spectral', serif;
   font-weight: 200;
 }
+
+.katalyst-logo{
+  margin-top: 30px;
+  height: 100px;
+  margin-left: 5px;
+}
+
 .CGI-logo{
   margin-top: 60px;
+  height: 100px;
 }
+
 .header, .col-md-4.description{
   font-family: 'Spectral', serif;
   font-weight: 200;
