@@ -11,6 +11,12 @@
   font-weight: 800;
 }
 
+.TJ_pic{
+  width: 90%;
+  height: 90%;
+  margin-top: 15px;
+}
+
 /*background image*/
 body, html{
   /*credit to @_ighosh*/
