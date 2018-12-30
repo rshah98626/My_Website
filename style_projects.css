@@ -17,6 +17,11 @@
   margin-top: 15px;
 }
 
+.roboChess{
+  padding-top: 10%;
+  width: 90%;
+}
+
 /*background image*/
 body, html{
   /*credit to @_ighosh*/
